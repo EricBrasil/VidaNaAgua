@@ -3,14 +3,10 @@ Projeto feito para Bootcamp padawans na empresa Framework System Digital
 
 Gabriel Dittz
 
-#### Guilherme Amaral
-=======
-Eric Brasil
-
+Guilherme Amaral
 
 Eric Brasil
-
-teste 123
-
 
 Hector Emanuel
+
+Guilherme Lorentz
