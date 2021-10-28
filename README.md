@@ -1,5 +1,6 @@
 # 
 
+<<<<<<< HEAD
 Projeto feito para Bootcamp padawans na empresa Framework System Digital.
 
 ## 🚀💜 NOSSO TEMA 💜🚀
@@ -62,3 +63,14 @@ Não podemos deixar de agradecer o bom trabalho em equipe de todos
 * Conte a outras pessoas sobre este projeto 📢
 
 * Que a força esteja com vocês!!!
+=======
+Gabriel Dittz
+
+Guilherme Amaral
+
+Eric Brasil
+
+Hector Emanuel
+
+Guilherme Lorentz
+>>>>>>> e93afb157a7fd9d6cae1416298a0023d7bd68686
