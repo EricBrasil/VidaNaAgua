@@ -1,0 +1,175 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url("img/BACKGROUND.png")
+}
+
+img{
+    width: 200px;
+    position: absolute;
+    left: 40px;
+}
+
+.mensal{
+    position: absolute;
+    top: 120px;
+    left: 70px;
+    width: 200px;
+    height: 50px;
+    border-radius: 6px;
+    background-color: #65B7BB;
+}
+
+.mensal > span{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    color: #fff;
+    font-size: x-large;
+}
+
+.inputmensal{
+    position: absolute;
+    left: 180px;
+    top: 10px;
+}
+
+.unico{
+    position: absolute;
+    top: 120px;
+    left: 285px;
+    width: 200px;
+    height: 50px;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+.unico > span{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    color: #65B7BB;
+    font-size: x-large;
+}
+
+.inputunico{
+    position: absolute;
+    left: 180px;
+    top: 10px;
+}
+
+.quantia25{
+    position: absolute;
+    top: 210px;
+    left: 70px;
+    width: 220px;
+    height: 150px;
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 10px;
+    padding-top: 1px;
+}
+
+.quantia50{
+    position: absolute;
+    top: 210px;
+    left: 325px;
+    width: 220px;
+    height: 150px;
+    background-color: #65B7BB;
+    border-radius: 6px;
+    padding: 10px;
+    padding-top: 1px;
+}
+
+.quantia100{
+    position: absolute;
+    top: 210px;
+    left: 580px;
+    width: 220px;
+    height: 150px;
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 10px;
+    padding-top: 1px;
+}
+
+.quantiaX{
+    position: absolute;
+    top: 210px;
+    left: 835px;
+    width: 220px;
+    height: 150px;
+    background-color: #65B7BB;
+    border-radius: 6px;
+    padding: 10px;
+    padding-top: 1px;
+}
+
+input{
+    position: absolute;
+    left: 225px;
+}
+
+.radio{
+    margin-top: 10px;
+}
+
+.conteudo{
+    font-size: medium;
+    position: absolute;
+    top: 50px;
+}
+
+.doar > button{
+    position: absolute;
+    top: 600px;
+    left: 335px;
+    width: 250px;
+    height: 60px;
+    border-radius: 6px;
+    background-color: #66CC00;
+    color: #fff;
+    font-weight: bolder;
+}
+
+.reset > button{
+    position: absolute;
+    top: 600px;
+    left: 70px;
+    width: 250px;
+    height: 60px;
+    border-radius: 6px;
+    background-color: #66CC00;
+    color: #fff;
+    font-weight: bolder;
+}
+
+#value{
+    border: 0px;
+    position: absolute;
+    left: 40px;
+    font-size: x-large;
+    width: 100px;
+    background-color: #65B7BB;
+    color: #fff;
+}
+
+input::placeholder{
+    color:#fff;
+}
+
+.valora{
+    color: #65B7BB;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.valorb{
+    color: #fff;
+    font-size: x-large;
+    font-weight: bolder;
+}
